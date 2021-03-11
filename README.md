@@ -1,6 +1,6 @@
 # Getting Started with Sports React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project Live link [Live site link](https://60499a0ae5773b2202ae6106--angry-heisenberg-c490ca.netlify.app/).
 
 ## Available code
 1. Bootstrap 
